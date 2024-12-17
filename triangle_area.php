@@ -29,6 +29,11 @@
         $a = 0.5 * $h * $w; //คำนวณพื้นที่
         return $a;
     }
+
+    function RetrunTriangleArea($h,$w){
+        $a = 0.5 * $h * $w; //คำนวณพื้นที่
+        return $a;
+    }
     ?>
 
 </body>
